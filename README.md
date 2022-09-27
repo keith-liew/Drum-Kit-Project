@@ -1,6 +1,6 @@
 # Drum-Kit-Project
 > A drum software build with html and javascript.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo [_here_](https://keith-liew.github.io/Drum-Kit-Project/). 
 
 ## Table of Contents
 * [General Info](#general-information)
